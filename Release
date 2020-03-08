@@ -1,0 +1,9 @@
+Origin: eddy自用源
+Label: Tccpg
+Suite: stable
+Version: 1.7
+Codename: Tccpg
+Architectures: iphoneos-arm
+Components: main
+Description: eddy自用源
+
